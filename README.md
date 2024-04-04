@@ -1,3 +1,7 @@
+# VEDIS IS NOT RELATED IN ANY WAY TO THE REDIS PROJECT, THE REDIS DATABASE OR REDIS LTD.
+# PLEASE DO NOT PESTER REDIS STAFF WITH QUESTIONS ABOUT VEDIS.
+# VEDIS IS A FORK OF REDIS, NOT ORIGINAL CODE.
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
