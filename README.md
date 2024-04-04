@@ -2,6 +2,8 @@
 # PLEASE DO NOT PESTER REDIS STAFF WITH QUESTIONS ABOUT VEDIS.
 # VEDIS IS A FORK OF REDIS, NOT ORIGINAL CODE.
 
+# Original Redis README.md is all following text:
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
