@@ -3,7 +3,7 @@
 The following pull requests from the redis repository have been added in to vedis as well.
 Thanks to all the REDIS contributors! <3
 
-### Applied during the period of April 21st -- April 22nd
+### During April 21st -- April 22nd
 The following patches were applied:
 
 - [[#13133](https://github.com/redis/redis/pull/13133/)] Allocate Lua VM code with jemalloc instead of libc, and count it used memory 
