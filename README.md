@@ -5,6 +5,14 @@
 Check [this document](https://github.com/ItsTato/vedis/blob/unstable/PATCHING_VEDIS.md) for all of our progress on keeping up with the original Redis's new commits and changes!
 
 # Original Redis README.md is all of the following text:
+*Changes to this README.md have been applied over-time, based on certain updates.*
+
+*Find a list of these updates [here](https://github.com/ItsTato/vedis/blob/unstable/PATCHING_VEDIS.md).*
+
+---
+**START ORIGINAL README.md**
+
+---
 
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
@@ -512,3 +520,8 @@ cover everything. We just want to help you with the first steps.
 Eventually you'll find your way inside the Redis code base :-)
 
 Enjoy!
+
+---
+**END ORIGINAL README.md**
+
+---
