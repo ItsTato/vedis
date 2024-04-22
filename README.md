@@ -1,8 +1,10 @@
-# VEDIS IS NOT RELATED IN ANY WAY TO THE REDIS PROJECT, THE REDIS DATABASE OR REDIS LTD.
-# PLEASE DO NOT PESTER REDIS STAFF WITH QUESTIONS ABOUT VEDIS.
-# VEDIS IS A FORK OF REDIS, NOT ORIGINAL CODE.
+# Warning for users that don't know what "Redis" or "Vedis" are:
+**VEDIS IS NOT RELATED IN ANY WAY TO THE REDIS PROJECT, THE REDIS DATABASE OR REDIS LTD. PLEASE DO NOT PESTER REDIS STAFF WITH QUESTIONS ABOUT VEDIS. VEDIS IS A FORK OF REDIS, NOT ORIGINAL CODE WRITTEN BY ITSTATO OR ANY OF THE VEDIS CONTRIBUTORS (IF ANY). ALL CODE IS ORIGINALLY WRITTEN BY REDIS TEAM AND REDIS CONTRIBUTORS.**
 
-# Original Redis README.md is all following text:
+# Are you interested in seeing just how we're keeping the Vedis wheels running?
+Check [this document](https://github.com/ItsTato/vedis/blob/unstable/PATCHING_VEDIS.md) for all of our progress on keeping up with the original Redis's new commits and changes!
+
+# Original Redis README.md is all of the following text:
 
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
