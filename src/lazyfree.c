@@ -28,7 +28,14 @@ void lazyfreeFreeDatabase(void *args[]) {
     kvstoreRelease(da2);
     atomicDecr(lazyfree_objects,numkeys);
     atomicIncr(lazyfreed_objects,numkeys);
+#if defined(USE_JEMALLOC)
+    je_mallctl("thread.tcache.flush",NULL,NULL,NULL,0);
+
+    jemalloc_purge();
+#endif
 }
+
+
 
 /* Release the key tracking table. */
 void lazyFreeTrackingTable(void *args[]) {
