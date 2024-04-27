@@ -6,7 +6,7 @@ Thanks to all the REDIS contributors! <3
 ### During April 21st -- April 22nd
 The following patches were applied:
 
-- [[#13133](https://github.com/redis/redis/pull/13133/)] Allocate Lua VM code with jemalloc instead of libc, and count it used memory 
+- [[#13133](https://github.com/redis/redis/pull/13133/)] Allocate Lua VM code with jemalloc instead of libc, and count it used memory
 - [[#13195](https://github.com/redis/redis/pull/13195/)] redis-cli - sendReadOnly() to work with Redis Cloud
 - [[#13183](https://github.com/redis/redis/pull/13183/)] Use usleep() instead of sched_yield() to yield cpu
 - [[#13191](https://github.com/redis/redis/pull/13191/)] Fix daylight race condition and some thread leaks
