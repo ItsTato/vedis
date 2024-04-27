@@ -12,3 +12,9 @@ The following patches were applied:
 - [[#13191](https://github.com/redis/redis/pull/13191/)] Fix daylight race condition and some thread leaks
 - [[#13167](https://github.com/redis/redis/pull/13167/)] Change FLUSHALL/FLUSHDB SYNC to run as blocking ASYNC
 - [[#13178](https://github.com/redis/redis/pull/13178/)] kvstoreIteratorNext() wrongly reset iterator twice
+
+### During April 27th
+The following patches were applied:
+
+- [[#13231](https://github.com/redis/redis/pull/13231/)] Fix forget to update the dict's node in the kvstore's rehashing list after defragment
+- [[#13233](https://github.com/redis/redis/pull/13233/)] Fix CI failure caused by PR
