@@ -18,3 +18,8 @@ The following patches were applied:
 
 - [[#13231](https://github.com/redis/redis/pull/13231/)] Fix forget to update the dict's node in the kvstore's rehashing list after defragment
 - [[#13233](https://github.com/redis/redis/pull/13233/)] Fix CI failure caused by PR
+
+### During May 6th
+The following patches were applied:
+
+- [[13251](https://github.com/redis/redis/pull/13251)] XREADGROUP from PEL should not affect server.dirty
