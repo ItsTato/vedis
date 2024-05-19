@@ -22,4 +22,11 @@ The following patches were applied:
 ### During May 6th
 The following patches were applied:
 
-- [[13251](https://github.com/redis/redis/pull/13251)] XREADGROUP from PEL should not affect server.dirty
+- [[#13251](https://github.com/redis/redis/pull/13251)] XREADGROUP from PEL should not affect server.dirty
+
+### During May 18th -- May 19th
+The following patches were applied:
+
+- [[#12543](https://github.com/redis/redis/pull/12543)] Add reverse history search in redis-cli (linenoise)
+- [[#13255](https://github.com/redis/redis/pull/13255)] Fix test failure due to differing reply format of XREADGROUP under RESP3 in MULTI
+- [[#13266](https://github.com/redis/redis/pull/13266)] Revert "Change mmap rand bits as a temporary mitigation to resolve asan bug ([redis#13150](https://github.com/redis/redis/pull/13150))
