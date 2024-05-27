@@ -29,4 +29,4 @@ The following patches were applied:
 
 - [[#12543](https://github.com/redis/redis/pull/12543)] Add reverse history search in redis-cli (linenoise)
 - [[#13255](https://github.com/redis/redis/pull/13255)] Fix test failure due to differing reply format of XREADGROUP under RESP3 in MULTI
-- [[#13266](https://github.com/redis/redis/pull/13266)] Revert "Change mmap rand bits as a temporary mitigation to resolve asan bug ([redis#13150](https://github.com/redis/redis/pull/13150))
+- [[#13266](https://github.com/redis/redis/pull/13266)] Revert "Change mmap rand bits as a temporary mitigation to resolve asan bug ([redis#13150](https://github.com/redis/redis/pull/13150))"
